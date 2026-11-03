@@ -13,4 +13,6 @@ This is an instructional test using hypothetical organizations, NOT a measured b
 - Test method: response JSONs drafted through reasoned ChatGPT analysis of the scenarios, then checked against the frozen local validator. These are representative simulated runs; actual model/vendor measurements remain unavailable.
 - Independent judgment: pursue an offline POC at the regional bank, with advancement contingent on audited local results, capability and compliance approval.
 - Team handoff: pass staffing, training and change-readiness assessment to Organizational Adoption Agent; adoption agent must not claim to resolve it.
-- Repo/branch/commit: local working copy; GitHub publication and commit not performed.
+- Repo: https://github.com/sawulya/Lab-6---SubAgent-5-Adoption
+Branch: main
+Commit: See latest commit on main.
